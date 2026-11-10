@@ -1,0 +1,10 @@
+[project]
+name = "comfyui-freeimagetovideo"
+description = "Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark. This is the official ComfyUI node for Free Image to Video: text to video and image to video with sound, no local GPU."
+version = "0.1.0"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/hanshs474/ComfyUI-FreeImageToVideo"
+Homepage = "https://freeimagetovideo.ai/?utm_source=comfyui&utm_medium=package"
